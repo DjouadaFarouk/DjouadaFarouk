@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DjouadaFarouk 
-- 👀 I’m interested in Virtual Reality/Augmented Reality 
-- 🌱 I’m currently learning webdev and mobile apps using flutter
+- 👀 I’m interested in Virtual Reality/Augmented Reality , vision and NLP models
+- 🌱 I’m currently working to improve an OCR for arabic language using Transformers ( neural networks)
 - 💞️ I’m looking to collaborate on any VR/AR and IA projects.
 - 📫 How to reach me  Djouada-farouk@outlook.com
 
